@@ -1,3 +1,3 @@
 # Slides for Scalable Components talk
 
-View this link: https://zellwk.github.io/scalable-components/
+https://zellwk.github.io/slides-scaling-components-cn/
